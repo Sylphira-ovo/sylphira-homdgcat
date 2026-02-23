@@ -24,7 +24,7 @@ var txt = {
         "RU": "HomDGCat Wiki - Genshin Impact & Honkai Star Rail Wiki By HomDGCat 妮可少女",
     },
     "Title": {
-        "CH": "<img src='/homdgcat-res/UI/_logo_2.png' class='logo_img_yhb'>",
+        "CH": "<img src='/homdgcat-res/UI/logo_2.png' class='logo_img_yhb'>",
         "EN": "<img src='/homdgcat-res/UI/_logo_3.png' class='logo_img_yhb'>",
         "RU": "HomDGCat Wiki",
     },
