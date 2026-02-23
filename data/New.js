@@ -104,15 +104,68 @@ NEW_SR = [
     },
     {
         "Name": {
-            "CH": "勿忘她的火焰",
-            "EN": "Never Forget Her Flame",
-            "JP": "彼女の炎を忘れずに",
-            "KR": "그녀의 불꽃을 잊지 말라"
+            "CH": "风堇",
+            "EN": "",
+            "JP": "",
+            "KR": ""
         },
         "Rarity": 5,
-        "Link": "/sr/char/23050",
-        "Icon": "/images/lightconemediumicon/23050.png",
-        "Type": "Nihility"
+        "Link": "/sr/char/1321",
+        "Icon": "/images/avataricon/avatar/1409.png",
+        "Elem": "Wind",
+        "Type": "Remembrance"
+    },
+    {
+        "Name": {
+            "CH": "风堇",
+            "EN": "",
+            "JP": "",
+            "KR": ""
+        },
+        "Rarity": 5,
+        "Link": "/sr/char/1321",
+        "Icon": "/images/avataricon/avatar/1409.png",
+        "Elem": "Wind",
+        "Type": "Remembrance"
+    },
+    {
+        "Name": {
+            "CH": "风堇",
+            "EN": "",
+            "JP": "",
+            "KR": ""
+        },
+        "Rarity": 5,
+        "Link": "/sr/char/1321",
+        "Icon": "/images/avataricon/avatar/1409.png",
+        "Elem": "Wind",
+        "Type": "Remembrance"
+    },
+    {
+        "Name": {
+            "CH": "风堇",
+            "EN": "",
+            "JP": "",
+            "KR": ""
+        },
+        "Rarity": 5,
+        "Link": "/sr/char/1321",
+        "Icon": "/images/avataricon/avatar/1409.png",
+        "Elem": "Wind",
+        "Type": "Remembrance"
+    },
+    {
+        "Name": {
+            "CH": "风堇",
+            "EN": "",
+            "JP": "",
+            "KR": ""
+        },
+        "Rarity": 5,
+        "Link": "/sr/char/1321",
+        "Icon": "/images/avataricon/avatar/1409.png",
+        "Elem": "Wind",
+        "Type": "Remembrance"
     }
 ]//SR
 
