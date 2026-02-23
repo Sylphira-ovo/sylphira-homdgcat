@@ -91,16 +91,16 @@ NEW_GI = [
 NEW_SR = [
     {
         "Name": {
-            "CH": "大丽花",
-            "EN": "The Dahlia",
-            "JP": "ダリア",
-            "KR": "달리아"
+            "CH": "风堇",
+            "EN": "",
+            "JP": "",
+            "KR": ""
         },
         "Rarity": 5,
         "Link": "/sr/char/1321",
-        "Icon": "/images/avataricon/avatar/1321.png",
-        "Elem": "Fire",
-        "Type": "Nihility"
+        "Icon": "/images/avataricon/avatar/1409.png",
+        "Elem": "Wind",
+        "Type": "Remembrance"
     },
     {
         "Name": {
