@@ -97,7 +97,7 @@ NEW_SR = [
             "KR": ""
         },
         "Rarity": 5,
-        "Link": "/sr/char/1321",
+        "Link": "/sr/char.html#_1409",
         "Icon": "/images/avataricon/avatar/1409.png",
         "Elem": "Wind",
         "Type": "Remembrance"
@@ -110,7 +110,7 @@ NEW_SR = [
             "KR": ""
         },
         "Rarity": 5,
-        "Link": "/sr/char/1321",
+        "Link": "/sr/char.html#_1409",
         "Icon": "/images/avataricon/avatar/1409.png",
         "Elem": "Wind",
         "Type": "Remembrance"
@@ -123,7 +123,7 @@ NEW_SR = [
             "KR": ""
         },
         "Rarity": 5,
-        "Link": "/sr/char/1321",
+        "Link": "/sr/char.html#_1409",
         "Icon": "/images/avataricon/avatar/1409.png",
         "Elem": "Wind",
         "Type": "Remembrance"
@@ -136,7 +136,7 @@ NEW_SR = [
             "KR": ""
         },
         "Rarity": 5,
-        "Link": "/sr/char/1321",
+        "Link": "/sr/char.html#_1409",
         "Icon": "/images/avataricon/avatar/1409.png",
         "Elem": "Wind",
         "Type": "Remembrance"
@@ -149,7 +149,7 @@ NEW_SR = [
             "KR": ""
         },
         "Rarity": 5,
-        "Link": "/sr/char/1321",
+        "Link": "/sr/char.html#_1409",
         "Icon": "/images/avataricon/avatar/1409.png",
         "Elem": "Wind",
         "Type": "Remembrance"
@@ -162,9 +162,81 @@ NEW_SR = [
             "KR": ""
         },
         "Rarity": 5,
-        "Link": "/sr/char/1321",
+        "Link": "/sr/char.html#_1409",
         "Icon": "/images/avataricon/avatar/1409.png",
         "Elem": "Wind",
+        "Type": "Remembrance"
+    },
+    {
+        "Name": {
+            "CH": "愿虹光永驻天空",
+            "EN": "",
+            "JP": "",
+            "KR": ""
+        },
+        "Rarity": 5,
+        "Link": "/sr/char.html#_1409",
+        "Icon": "/images/lightconemediumicon/23042.png",
+        "Type": "Remembrance"
+    },
+    {
+        "Name": {
+            "CH": "愿虹光永驻天空",
+            "EN": "",
+            "JP": "",
+            "KR": ""
+        },
+        "Rarity": 5,
+        "Link": "/sr/char.html#_1409",
+        "Icon": "/images/lightconemediumicon/23042.png",
+        "Type": "Remembrance"
+    },
+    {
+        "Name": {
+            "CH": "愿虹光永驻天空",
+            "EN": "",
+            "JP": "",
+            "KR": ""
+        },
+        "Rarity": 5,
+        "Link": "/sr/char.html#_1409",
+        "Icon": "/images/lightconemediumicon/23042.png",
+        "Type": "Remembrance"
+    },
+    {
+        "Name": {
+            "CH": "愿虹光永驻天空",
+            "EN": "",
+            "JP": "",
+            "KR": ""
+        },
+        "Rarity": 5,
+        "Link": "/sr/char.html#_1409",
+        "Icon": "/images/lightconemediumicon/23042.png",
+        "Type": "Remembrance"
+    },
+    {
+        "Name": {
+            "CH": "愿虹光永驻天空",
+            "EN": "",
+            "JP": "",
+            "KR": ""
+        },
+        "Rarity": 5,
+        "Link": "/sr/char.html#_1409",
+        "Icon": "/images/lightconemediumicon/23042.png",
+        "Type": "Remembrance"
+    },
+    {
+        "Name": {
+            "CH": "愿虹光永驻天空",
+            "EN": "",
+            "JP": "",
+            "KR": ""
+        },
+        "Rarity": 5,
+        "Link": "/sr/char.html#_1409",
+        "Icon": "/images/lightconemediumicon/23042.png",
         "Type": "Remembrance"
     }
 ]//SR
